@@ -39,6 +39,7 @@ plt.tick_params(axis='both', which='major', labelsize=10, color="white")
 
 plt.ylabel("No. of cases", fontsize=15, alpha=0.7, color='#4bb4f2')
 plt.xlabel("Region/Country", fontsize=12, alpha=0.9, color='#4bb4f2')
+#
 
 plt.tick_params(size=20, color='white')
 
